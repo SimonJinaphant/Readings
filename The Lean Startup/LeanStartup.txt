@@ -1,0 +1,76 @@
+The Lean Startup
+Eric Ries
+
+The story of rags-to-riches, perseverance, genius and hard work is a popular fairytale. Startup success can be engineered by following the right process, not just by good genes or being in the right place at the right time
+
+Entrepreneurship is a kind of management
+View customer input as only one source of information about product and overall vision, run experiments on customer than cater to their whims
+
+Customer Development - business and marketing functions of a startup should be as important as engineering and product development
+
+1. Entrepreneurs are everywhere they work in a startup, a startup is a human institution designed to create new products and services under conditions of extreme uncertainty.
+
+2. Entrepreneurship is management, A startup is an institution, not just a product, so it requires a knew kind of management geared to the context of extreme uncertainty.
+
+3. Validated learning, startups exist not to make new stuff, make money, or customer, but exist to learn how to build a sustainable business, which is validated by running experiments that allow entrepreneurs to test each elements of their vision.
+
+4. Build-Measure-Learn, The fundamental of a startup is to turn ideas into products, measure customer response, and learn whether to pivot or persevere. Successful startup should be geared to accelerate that feedback loop
+
+5. Innovation accounting, improve outcomes and hold innovators accountable, focus on the boring stuff, how to measure progress, how to set milestones, how to prioritize work.
+
+Startups fail due to:
+1. temptation to focus of a good plan, a solid strategy and through market research. Startups work with too much uncertainty for this to work, they don't know who their customer is or what their product should be. Planning and forecasting are only accurate when theirs a stable operating history and static environment, which startups have neither of.
+
+2. Adopting the "Just Do It" school of startups, believing that if management is the problem then chaos is the answer.
+
+
+
+VISION
+=======================
+Entrepreneur management
+Startups involve management, which seem odd since both words appear as opposite: one is associated with ... while the other ...
+
+many take the "just do it" attitude, avoiding all forms of management, process, and discipline. but this leads to more chaos than success.
+
+Entrepreneurship require managerial discipline to harness opportunities given
+
+Ask people to start measuring their productivity differently, the goal of a startup is to figure out the right thing to build -what customers want and will pay for- as quickly as possible. Its a new way of looking at the development of innovative new products that emphasize fast iteration and customer insight, a vision, and an ambition, all the the same time.
+
+Instead of making complex plans based with a lot of assumptions, make constant adjustments with a steering wheel (the Build-Measure-Learn feedback loop) We can learn when and if its time to make a sharp turn (a pivot) or whether we should persevere along the current path.
+
+*product,strategy, vision picture*
+Product changes constantly through optimization (tuning the engine)
+Strategy changes less frequently through pivoting
+Vision rarely changes
+
+
+DEFINE
+=========================
+Entrepreneurs - referring to entire startup ecosystem regardless of company size, sector, or stage of development. From young visionaries with little backing but great ideas to seasoned visionaries within large companies
+
+A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty
+Although the statement omits context about the size of the company, industry, or sector of the economy
+
+Startups are not just about a product, tech breakthrough, or brilliant ideas, is a greater sum of its parts, an acutely human enterprise.
+
+Startups use many kinds of innovation
+  Novel scientific discoveries
+  repurposing existing tech for new use
+  devising new business model that unlocks hidden values
+  bringing a product/service to a new location or underserved set of customers
+
+Developing experimental system is the responsibility of senior management; its moving leaders from playing Caesar with their thumbs up and down on every idea into putting the culture and system so the team can move and innovate at the speed of experimental system
+
+
+LEARN
+=================
+We must learn what customers really want, not what they say they want or what we think they should want. Validated learning is not after-the-fact rationalization or a story designed to hide failure, it is a method for demonstrating progress when faced with extreme uncertainty. The process of demonstrating empirically that a team has discovered valuable truth about a present and future business prospect.
+
+Lean thinking defines value as providing benefits to the customers; everything else is a waste. In manufacturing, customers don't care how the product was assembled, only that it works correctly.
+
+Find a synthesis between our vision and what customers would accept; not to capitulate to what customers thought they wanted or to tell customers what they should want
+
+IMVU originally as a 3D Avatar site with an IM add-on. But customers (through experiments) wanted the use it to make friends online without compromising real-life identity, whereas other social products were centered on customers real life identity.
+
+The question is not can this product be built, but rather Should this product be built and can we sustain a business around this set of product/services
+We need a method for breaking down a business plan into components and testing each part empirically
