@@ -74,3 +74,21 @@ IMVU originally as a 3D Avatar site with an IM add-on. But customers (through ex
 
 The question is not can this product be built, but rather Should this product be built and can we sustain a business around this set of product/services
 We need a method for breaking down a business plan into components and testing each part empirically
+
+EXPERIMENT
+===================
+"Just do it" -> Lets just ship a product and see what happens
+
+A true experiment follows the scientific method, begins with a clear hypothesis that predicts what is suppose to happen, then test those empirically
+
+If rely on existing market research or survey, you're asking what customers thought they wanted. Instead, build a simple product and test
+
+Break does the grand vision  into parts, two important assumptions make are value hypothesis and growth hypothesis
+Value hypothesis test weather a product/service truly deliver value to customer once they are using it.
+  We could survey them as indicator but people have hard time assessing their feelings objectively.
+
+Growth hypothesis - test how new customer will discover a product/service.
+
+Build a minimal viable product and experiment before building a large product based on assumptions
+
+Entrepreneurs must overcome the management think which puts faith in well-researched plans, planning only works in the presence of a long and stable operating history.
