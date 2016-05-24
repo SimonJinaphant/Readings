@@ -1,0 +1,58 @@
+============
+STEERING
+============
+
+A startup is a catalyst which transforms ideas into product, with customer interaction we get feedback and data; this feedback is both qualitative (what they like/dislike) and quantitative (how many use it and find it valuable). The products a startup builds are really experiments with the outcome of learning how to build a sustainable business, they are the most valuable because it influences and reshape the next set of ideas
+
+*BULD-MEASURE-LEARN*
+
+People have training/background which emphasize one component of this loop; but the focus should be on minimizing the amount of time though this loop
+
+A MVP is a product which enables a complete cycle of the BML loop with minimum effort and time, it lacks many features which may or may not prove useful but we need to measure its impact.
+  It is pointless to build a product that is evaluated solely by the developers and designers, we need to get it to the potential customers
+
+After the MVP comes the measure phase, where the challenges is to determine whether the efforts are leading to real progress.
+
+Finally the most important is the pivot. If we discover our hypothesis is false it is time to make a major change to a new hypothesis
+
+LEAP
+=========
+Investors were impressed by 2 facts about Facebook's growth
+1. Raw amount of time users spend on the site ->used to validate value hypothesis
+2. Growth rate ->growth hypothesis
+
+The role os strategy is to figure out the right questions to ask
+
+STRATEGY BASED ON ASSUMPTIONS
+=============================
+Every plan begins with an assumption, but the assumption could be wrong so we need to test it out ASAP.
+
+The goal of early interaction with customers is not to gain definitive answers but to clarify a basic level of understanding of the customer and what problem they have.
+
+Analysis paralysis
+Two dangers when conducting market research and customer interactions
+1. Just do it - impatient to get started and don't spend time analyzing strategy, building the wrong product
+2. Analysis paralysis - endlessly refining their plan, solve by building MVP
+
+
+6. TEST
+==============
+MVP helps start the process of learning as quickly as possible. Its not the smallest product imaginable, it is simply the fastest way to get through the BML loop with the minimum effort, it is not to answer product design or technical questions but to test business hypothesis
+
+They're not meant to be perfect. Early adopters need to be sold before the product can hit mass market; these adopters prefer an 80% perfect solution; you don't need a perfect solution to capture interest
+  The 1st iPhone had many lined up despite it lacking copy&paste, 3G, corporate email
+  Google's original search engine could answer about specialized topics such as Stanford and Linux, years before it could organize the world
+Early adopters use their imagination to fill in the gap, most care about being the first on the block to use something and gain an advantage
+If something is too polish they may question whether how much of an advantage they can get by being an early adopter.
+
+Considering what makes it into the MVP requires judgement
+
+MVP challenges the traditional notion of quality. Most modern business and engineering philosophies focus on producing high quality experiences for customer as primary principle. In a startup it is risky to assume you already know what customer will perceive as worthwhile.
+  Instead use: If we do not know who the customer is, we do not know what quality is
+
+MVP sometimes are perceived as low quality by customers but use it as an opportunity to learn what the customer actually care about instead of speculating.
+  IMVU -> Wanted SIMS like environment with walking avatars, ship MVP with stationary avatars -> customer feedback confirm walking avatars -> shipped another MVP with avatars "teleporting" instead of walking to avoid writing AI for route decision -> still got positive feedback
+
+Customers don't care how much time something takes to build, only care if it serves their needs. (Customers prefer "Teleporting" since it got them to the destination fast)
+
+General rule for MVP: Remove any feature, process, or effort that does not contribute directly to the learning you seek.
