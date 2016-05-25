@@ -1,14 +1,14 @@
 The Lean Startup
-Eric Ries
+By Eric Ries
 
-The story of rags-to-riches, perseverance, genius and hard work is a popular fairytale. Startup success can be engineered by following the right process, not just by good genes or being in the right place at the right time
+The story of rags-to-riches, perseverance, genius and hard work is a popular fairytale. Startup success can be engineered by following the right process, not just by good genes or being in the right place at the right time.
 
 Entrepreneurship is a kind of management
-View customer input as only one source of information about product and overall vision, run experiments on customer than cater to their whims
+View customer input as only one source of information about product and overall vision, run experiments on customer to determine what they actually want.
 
 Customer Development - business and marketing functions of a startup should be as important as engineering and product development
 
-1. Entrepreneurs are everywhere they work in a startup, a startup is a human institution designed to create new products and services under conditions of extreme uncertainty.
+1. Entrepreneurs are everywhere, they work in a startup, a startup is a human institution designed to create new products and services under conditions of extreme uncertainty.
 
 2. Entrepreneurship is management, A startup is an institution, not just a product, so it requires a knew kind of management geared to the context of extreme uncertainty.
 
@@ -19,6 +19,6 @@ Customer Development - business and marketing functions of a startup should be a
 5. Innovation accounting, improve outcomes and hold innovators accountable, focus on the boring stuff, how to measure progress, how to set milestones, how to prioritize work.
 
 Startups fail due to:
-1. temptation to focus of a good plan, a solid strategy and through market research. Startups work with too much uncertainty for this to work, they don't know who their customer is or what their product should be. Planning and forecasting are only accurate when theirs a stable operating history and static environment, which startups have neither of.
+1. Temptation to focus of a good plan, a solid strategy and through market research. Startups work with too much uncertainty for this to work, they don't know who their customer is or what their product should be. Planning and forecasting are only accurate when theirs a stable operating history and static environment, which startups have neither of.
 
 2. Adopting the "Just Do It" school of startups, believing that if management is the problem then chaos is the answer.
