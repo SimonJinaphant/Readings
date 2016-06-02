@@ -1,18 +1,14 @@
 =======================
 VISION
 =======================
-Entrepreneur management
-Startups involve management, which seem odd since both words appear as opposite: one is associated with ... while the other ...
-
-many take the "just do it" attitude, avoiding all forms of management, process, and discipline. but this leads to more chaos than success.
-
-Entrepreneurship require managerial discipline to harness opportunities given
+Startups involve management, which seem odd since both words appear as opposites. Many take the "just do it" attitude, avoiding all forms of management, process, and discipline. but this leads to more chaos than success. Entrepreneurship require managerial discipline to harness opportunities given
 
 Ask people to start measuring their productivity differently, the goal of a startup is to figure out the right thing to build -what customers want and will pay for- as quickly as possible. Its a new way of looking at the development of innovative new products that emphasize fast iteration and customer insight, a vision, and an ambition, all the the same time.
 
 Instead of making complex plans based with a lot of assumptions, make constant adjustments with a steering wheel (the Build-Measure-Learn feedback loop) We can learn when and if its time to make a sharp turn (a pivot) or whether we should persevere along the current path.
 
 *product,strategy, vision picture*
+
 Product changes constantly through optimization (tuning the engine)
 Strategy changes less frequently through pivoting
 Vision rarely changes
@@ -22,16 +18,9 @@ DEFINE
 =========================
 Entrepreneurs - referring to entire startup ecosystem regardless of company size, sector, or stage of development. From young visionaries with little backing but great ideas to seasoned visionaries within large companies
 
-A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty
-Although the statement omits context about the size of the company, industry, or sector of the economy
+A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty. Although this statement omits context about the size of the company, industry, or sector of the economy
 
-Startups are not just about a product, tech breakthrough, or brilliant ideas, is a greater sum of its parts, an acutely human enterprise.
-
-Startups use many kinds of innovation
-  Novel scientific discoveries
-  repurposing existing tech for new use
-  devising new business model that unlocks hidden values
-  bringing a product/service to a new location or underserved set of customers
+Startups are not just about a product, tech breakthrough, or brilliant ideas, it is a greater sum of its parts
 
 Developing experimental system is the responsibility of senior management; its moving leaders from playing Caesar with their thumbs up and down on every idea into putting the culture and system so the team can move and innovate at the speed of experimental system
 
