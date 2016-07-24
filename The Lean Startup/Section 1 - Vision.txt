@@ -35,22 +35,21 @@ Find a synthesis between our vision and what customers would accept; not to capi
 
 IMVU originally as a 3D Avatar site with an IM add-on. But customers (through experiments) wanted the use it to make friends online without compromising real-life identity, whereas other social products were centered on customers real life identity.
 
-The question is not can this product be built, but rather Should this product be built and can we sustain a business around this set of product/services
+The question is not can this product be built, but rather should this product be built and can we sustain a business around this set of product/services
+
 We need a method for breaking down a business plan into components and testing each part empirically
 
 EXPERIMENT
 ===================
-"Just do it" -> Lets just ship a product and see what happens
+"Just do it" paradigm -> Lets just ship a product and see what happens
 
 A true experiment follows the scientific method, begins with a clear hypothesis that predicts what is suppose to happen, then test those empirically
 
 If rely on existing market research or survey, you're asking what customers thought they wanted. Instead, build a simple product and test
 
-Break does the grand vision  into parts, two important assumptions make are value hypothesis and growth hypothesis
-Value hypothesis test weather a product/service truly deliver value to customer once they are using it.
-  We could survey them as indicator but people have hard time assessing their feelings objectively.
+Value hypothesis - test whether a product/service truly deliver value to customer once they are using it.
 
-Growth hypothesis - test how new customer will discover a product/service.
+Growth hypothesis - test how new customers will discover a product/service.
 
 Build a minimal viable product and experiment before building a large product based on assumptions
 
